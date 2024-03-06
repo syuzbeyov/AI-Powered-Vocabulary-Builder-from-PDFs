@@ -21,8 +21,8 @@
 <li><strong>OpenAI API</strong>: Utilized for fetching word definitions and examples, as well as for story generation.</li>
 <li><strong>Tortoise TTS, Whisper, and Stable Diffusion</strong>: Integrated for advanced features like story narration and visual content creation.</li>
 </ul>
-<h3>Visual Demonstrations</h3>
-<p>To give you a better understanding of how the program works and what it looks like in action, I've included a series of videos and screenshots within the repository. These resources showcase the functionality of the platform and provide a glimpse into the user interface and experience.</p>
+<h2>Visual Demonstrations</h2>
+<p><span>To give you a better understanding of how the program works and what it looks like in action, we've included a series of videos and screenshots within the repository. These resources showcase the functionality of the platform and provide a glimpse into the user interface and experience.</span></p>
 <h2>How to Use</h2>
 <p>Provide step-by-step instructions on how to set up and use the application. This section should cover:</p>
 <ol>

@@ -23,9 +23,12 @@
 </ul>
 <h2>Installation</h2>
 <h2>Using Source Code</h2>
-<h3>1. Install Python</h3>
+<h3>1. Install Python:</h3>
 <li>Ensure you have Python 3.7 or higher installed.</li>
 <li>Download Python and make sure to add Python to your PATH during installation.</li>
+<h3>2. Clone the Repository:</h3>
+<li>git clone https://github.com/syuzbeyov/AI-Powered-Vocabulary-Builder-from-PDFs.git </li>
+<li>cd path/to/source-code</li>
 
 <h2>How to Use</h2>
 <p>Provide step-by-step instructions on how to set up and use the application. This section should cover:</p>

@@ -1,4 +1,4 @@
-<h1><span>AI-Powered Vocabulary Builder from PDFs</span></h1>
+<h1><span><strong>AI-Powered Vocabulary Builder from PDFs</strong></span></h1>
 <p>The Language Learning App is a dynamic, user-friendly application designed to assist individuals in expanding their vocabulary through the study of documents in foreign languages. Initially developed out of personal necessity, this application simplifies the process of extracting, studying, and memorizing new words from PDF files. With features like automatic word definition retrieval, quizzes, flashcard generation, and story creation, it offers an immersive learning experience tailored to the needs of language learners.</p>
 <h2>Features</h2>
 <ul>
@@ -24,8 +24,9 @@
 <h2>Installation</h2>
 <h2>Using Source Code</h2>
 <h3>1. Install Python</h3>
-<p><span>Ensure you have Python 3.7 or higher installed.
-Download Python and make sure to add Python to your PATH during installation.</span></p>
+<li>Ensure you have Python 3.7 or higher installed.</li>
+<li>Download Python and make sure to add Python to your PATH during installation.</li>
+
 <h2>How to Use</h2>
 <p>Provide step-by-step instructions on how to set up and use the application. This section should cover:</p>
 <ol>

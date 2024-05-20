@@ -8,7 +8,7 @@
 <li><strong>Word Definitions and Examples</strong>: Leverages the OpenAI API to fetch definitions and examples in both English and the target study language.</li>
 <li><strong>Quiz Generation</strong>: Users can test their knowledge with automatically generated quizzes, moving words from "to be learned" to "learned" upon successful completion.</li>
 <li><strong>Flashcard Generation</strong>: For visual reinforcement, users can generate flashcards of learned words.</li>
-<li><strong>Story Creation</strong>: Enhances learning by creating stories using selected words, utilizing Tortoise, Whisper, OpenAI API, and Stable Diffusion.</li>
+<li><strong>Story Creation</strong>: Enhances learning by creating stories using selected words, utilizing Tortoise, Whisper, OpenAI API, and Stable Diffusion. (Will be added later on)</li>
 <li><strong>Pronunciation</strong>: Allows users to hear the pronunciation of words, powered by a Python library.</li>
 </ul>
 <h2>Motivation</h2>

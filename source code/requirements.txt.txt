@@ -1,0 +1,7 @@
+customtkinter
+tkinter
+Pillow
+pyttsx3
+PyPDF2
+pdfminer.six
+requests
